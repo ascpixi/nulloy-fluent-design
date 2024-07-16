@@ -10,4 +10,4 @@ The skin is based on the **Metro** skin, pre-packaged with Nulloy.
 ## Building
 If you'd like to build the skin yourself, simply run the `build.sh` script. If you're on Windows, you should be able to run the script if you have `zip` and `rm` available.
 
-Alternatively, you can simply package all files in `src` into a `.zip` file, and then change its extension to `nzs`.
+Alternatively, you can also package all files in `src` into a `.zip` file, and then change its extension to `nzs`.
